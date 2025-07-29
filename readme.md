@@ -49,12 +49,6 @@ This project is an end-to-end data analysis of the Titanic dataset. The goal is 
 
 ---
 
-## 📈 Sample Visuals
-
-*(Add screenshots if you'd like, or export graphs from the notebook and upload them here)*
-
----
-
 ## 🚀 Future Work
 
 - Apply machine learning models (e.g., Logistic Regression, Decision Tree)
@@ -65,7 +59,7 @@ This project is an end-to-end data analysis of the Titanic dataset. The goal is 
 
 ## 📬 Contact
 
-Created by [Your Name]  
-Feel free to connect or provide feedback on GitHub or [LinkedIn](https://www.linkedin.com).
+Created by David Vishwas Addanki Vishal
+Feel free to connect or provide feedback on GitHub or www.linkedin.com/in/david-vishwas-945a5b2b9.
 
 ---
